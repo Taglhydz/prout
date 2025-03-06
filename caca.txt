@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 gjierngiopernrttrhtrhrthtrhtrregergre
 
 TEST
-=======
 gjierngiopernrttrhtrhrthtrhtrtretrete
->>>>>>> conflict
